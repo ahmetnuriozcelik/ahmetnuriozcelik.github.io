@@ -2,13 +2,8 @@
 permalink: /about/
 title: "About"
 ---
-##### Diverse background spanning customer acquisition, retention, product management and marketing intelligence roles in both enterprise and consumer segments. Experienced in managing direct teams and stakeholders, formulating and implementing data driven and customer-oriented acquisition and retention strategies.
+I am a data driven product manager, passionate about data analytics and machine learning.
 
-##### Results driven strategic thinker, always putting customers first and aligning actions with strategic and financial objectives. Ready to take challenges and keen to making a difference and gaining new skills.
+I will be posting about my data science journey as well as my codes and projects.
 
-- Product Development
-- Go-to-market strategy
-- Budgeting / Forecasting
-- Data Analytics (SAS / Python)
-- Big Data Tools (Hive)
-- Data Visualization (Tableau)
+You can connect me via [linkedin](https://www.linkedin.com/in/ahmetnuriozcelik/) or [email](mailto:ahmetnuri.ozcelik@outlook.com) .
