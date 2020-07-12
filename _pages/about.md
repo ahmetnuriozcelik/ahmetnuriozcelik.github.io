@@ -6,9 +6,9 @@ title: "About"
 
 ##### Results driven strategic thinker, always putting customers first and aligning actions with strategic and financial objectives. Ready to take challenges and keen to making a difference and gaining new skills.
 
-##### - Product Development
-##### - Go-to-market strategy
-##### - Budgeting / Forecasting
-##### - Data Analytics (SAS / Python)
-##### - Big Data Tools (Hive)
-##### - Data Visualization (Tableau)
+- Product Development
+- Go-to-market strategy
+- Budgeting / Forecasting
+- Data Analytics (SAS / Python)
+- Big Data Tools (Hive)
+- Data Visualization (Tableau)
